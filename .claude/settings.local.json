@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cmd.exe /c \"rmdir /s /q D:\\\\nodejs\\\\node_cache\\\\_cacache\")"
+    ]
+  }
+}
