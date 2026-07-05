@@ -33,6 +33,9 @@
 						</view>
 					</template>
 			</up-waterfall>
+				<view class="topClas" @click="Totop" v-if="showTopBtn">
+				<up-icon name="arrow-upward" color="#fff" size="28"></up-icon>
+				</view>
 	</view>>
 </template>
 
