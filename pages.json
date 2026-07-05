@@ -23,6 +23,12 @@
 			"style": {
 				"navigationBarTitleText": ""
 			}
+		},
+		{
+			"path": "pages/line/line",
+			"style": {
+				"navigationBarTitleText": ""
+			}
 		}
 	],
 	"easycom": {
